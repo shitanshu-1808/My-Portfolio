@@ -10,7 +10,6 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build"
-
   },
   "dependencies": {
     "react": "^19.1.1",
