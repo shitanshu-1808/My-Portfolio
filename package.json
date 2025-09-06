@@ -1,8 +1,7 @@
 {
   "name": "port",
   "private": true,
-  "homepage": "https://shitanshu-1808.github.io/My-Portfolio",
-
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
+
   },
   "dependencies": {
     "react": "^19.1.1",
